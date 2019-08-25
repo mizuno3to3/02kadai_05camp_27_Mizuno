@@ -1,0 +1,26 @@
+.box2{
+    display: flex;
+    justify-content: center;
+}
+.person11{
+    color:red;
+    font-size: 50px;
+    text-align: center;
+}
+.person21{
+    color:blue;
+    font-size: 50px;
+    text-align: center;
+}
+.person1{
+    background-color:lightpink;
+}
+.person2{
+    background-color: lightblue;
+}
+.person12{
+    
+}
+.person22{
+   
+}
